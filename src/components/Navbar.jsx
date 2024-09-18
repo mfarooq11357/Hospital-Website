@@ -21,7 +21,8 @@ const Navbar = () => {
             <nav className="navbar">
                 <div className="navbar-container">
                     <a href="/" className="navbar-logo">
-                        <img src="path/to/logo.png" alt="Logo" />
+                        HealthCare Hub
+{/*                         <img src="path/to/logo.png" alt="Logo" /> */}
                     </a>
                     <div className="menu-icon" onClick={handleToggle}>
                         {isMobile ? <FaTimes /> : <FaBars />}
