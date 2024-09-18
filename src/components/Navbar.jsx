@@ -23,7 +23,7 @@ const Navbar = () => {
 {/*                     <a href="/" className="navbar-logo">
                       <img src="path/to/logo.png" alt="Logo" /> 
                     </a> */}
-                     <div className="navbar-logo>
+                     <div className="navbar-logo">
                          HealthCare Hub
                          </div>
                     <div className="menu-icon" onClick={handleToggle}>
